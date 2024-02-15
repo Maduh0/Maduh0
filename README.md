@@ -1,0 +1,6 @@
+- 👋 Olá, sou Madu
+- 👀 programadora iniciante
+- 🌱 Atualmente estou aprendendo HTML, CSS & JS
+- 💞️ atrás de realizar o sonho de ser programadora FullStack
+- 📫 Instagram: @_Maduluiz
+- ⚡ Curiosidade: tecnica de smartphofes, designer, editora de vídeo.
